@@ -7,5 +7,14 @@
     "evidence_text": "This is a test case",
     "issued_at": "2026-05-08T07:50:21.868Z",
     "issued_by": "1061554489074655262"
+  },
+  {
+    "case_id": "01KR7434M7V3S2TZZV3VAF76K1",
+    "user_id": "979148269634601021",
+    "username": "bighawtsauce",
+    "reason": "doxxing",
+    "evidence_text": null,
+    "issued_at": "2026-05-09T19:40:38.919Z",
+    "issued_by": "1341858418377625693"
   }
 ]
