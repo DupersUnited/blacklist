@@ -16,5 +16,14 @@
     "evidence_text": null,
     "issued_at": "2026-05-09T19:40:38.919Z",
     "issued_by": "1341858418377625693"
+  },
+  {
+    "case_id": "01KRFMH7RSBQ08AQJV0YZN8XB1",
+    "user_id": "1449951005499330792",
+    "username": "evilcomboss1234",
+    "reason": "Doxing",
+    "evidence_text": null,
+    "issued_at": "2026-05-13T03:01:53.561Z",
+    "issued_by": "1061554489074655262"
   }
 ]
