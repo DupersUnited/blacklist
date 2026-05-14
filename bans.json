@@ -34,5 +34,32 @@
     "evidence_text": null,
     "issued_at": "2026-05-13T03:18:29.015Z",
     "issued_by": "1061554489074655262"
+  },
+  {
+    "case_id": "01KRM6QP2HX37XFTR3HPAYHWWS",
+    "user_id": "841031935098880020",
+    "username": "criprat",
+    "reason": "Weird behavior with minors",
+    "evidence_text": null,
+    "issued_at": "2026-05-14T21:36:56.913Z",
+    "issued_by": "1061554489074655262"
+  },
+  {
+    "case_id": "01KRM6RBKC10KT1PE6G8DVN72K",
+    "user_id": "1346946523329728684",
+    "username": "4gottennnn",
+    "reason": "weird behavior with minors",
+    "evidence_text": null,
+    "issued_at": "2026-05-14T21:37:18.956Z",
+    "issued_by": "1061554489074655262"
+  },
+  {
+    "case_id": "01KRM6RX0HRHF6YN9FPF9Z6KMM",
+    "user_id": "1171030867414618185",
+    "username": "elenaonhrt",
+    "reason": "weird behavior with minors",
+    "evidence_text": null,
+    "issued_at": "2026-05-14T21:37:36.785Z",
+    "issued_by": "1061554489074655262"
   }
 ]
