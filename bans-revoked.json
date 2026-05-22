@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "case_id": "01KS80D79SBMEFEPF9JQN7CA2Q",
+    "user_id": "1405777028028043387",
+    "username": "meowlord1234",
+    "reason": "doxxing",
+    "evidence_text": null,
+    "issued_at": "2026-05-22T14:11:11.289Z",
+    "issued_by": "1341858418377625693",
+    "revoked_at": "2026-05-22T14:49:49.171Z",
+    "revoked_by": "1341858418377625693",
+    "revoke_reason": "evidence not attached"
+  }
+]
