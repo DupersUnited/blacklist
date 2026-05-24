@@ -79,5 +79,14 @@
     "evidence_text": null,
     "issued_at": "2026-05-23T00:05:48.253Z",
     "issued_by": "1061554489074655262"
+  },
+  {
+    "case_id": "01KSD6J2QR47MM19XPSQX52723",
+    "user_id": "1452003057981325522",
+    "username": "master.iran",
+    "reason": "suggesting to rat server staff.",
+    "evidence_text": "see attachment\n\nAttachments:\n- https://cdn.discordapp.com/attachments/1455266461806497904/1508116033624473640/image.png?ex=6a145e01&is=6a130c81&hm=29741854c1c9d44706d867c51590f16e0e2aa950ce5dea0b4332ae3ee7376fb9&",
+    "issued_at": "2026-05-24T14:34:54.073Z",
+    "issued_by": "1341858418377625693"
   }
 ]
